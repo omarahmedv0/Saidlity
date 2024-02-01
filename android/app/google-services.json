@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426971748367",
+    "project_id": "saidlity-9cb88",
+    "storage_bucket": "saidlity-9cb88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426971748367:android:3e6e674a1b291f5574eb7a",
+        "android_client_info": {
+          "package_name": "com.saidlity.saidlity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptRZz1GwvADicUEBE2kEq1IijtnJtbY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
